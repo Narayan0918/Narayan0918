@@ -1,29 +1,76 @@
-<h1 align="center">Hi 👋, I'm Narayan Raj Dubey</h1>
-<h3 align="center">Aspiring Frontend Developer | Python & React Enthusiast from India</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Narayan%20Raj%20Dubey&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20|%20Python%20Enthusiast&descAlignY=60&descAlign=50" alt="Narayan's Header" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narayan0918&label=Profile%20views&color=0e75b6&style=flat" alt="narayan0918" /> </p>
+  <h3> 
+    Transforming ideas into efficient, user-friendly applications with Modern Web Technologies.
+  </h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/narayan-raj-dubey-191bb6223">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="mailto:narayanrajdubey9889@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-c0392b?style=for-the-badge&logo=gmail" />
+    </a>
+    <a href="https://narayan-portfolio-ai.netlify.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ecc71?style=for-the-badge&logo=netlify" />
+    </a>
+  </p>
+</div>
 
-- 🌱 I’m currently learning **Django, Flask**
+---
 
-- 👯 I’m looking to collaborate on **Open-source frontend projects**
+### 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://narayan-portfolio-ai.netlify.app/](https://narayan-portfolio-ai.netlify.app/)
+[cite_start]I am a **Full-Stack Web Developer** based in Hyderabad, India, with a solid foundation in **Python** and **Frontend Technologies**[cite: 58]. My passion lies in building responsive, scalable applications and solving complex problems through modular code. 
 
-- 📫 How to reach me **narayanrajdubey9889@gmail.com**
+[cite_start]I recently completed an internship at **iNeuBytes**, where I optimized frontend performance by **25%** and resolved cross-device compatibility issues[cite: 76].
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MHtO17Uatt-7xciLI4TWZwE0auy4IqQX/view?usp=sharing](https://drive.google.com/file/d/1MHtO17Uatt-7xciLI4TWZwE0auy4IqQX/view?usp=sharing)
+### 🚀 Current Focus & Status
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/narayan raj dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narayan raj dubey" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/221401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="221401" height="30" width="40" /></a>
-</p>
+> **🔭 I’m currently working on:** > **[Unified Alumni Connection Platform]** > A massive multi-tenant full-stack solution (Web & Mobile) designed for alumni networking. I am currently architecting the backend using **PostgreSQL** and **Node.js**, while building a reactive UI with **React.js & Vite**. [cite_start]I am also integrating AI-assisted workflows to optimize deployment speed[cite: 93, 94, 95].
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayan0918&show_icons=true&locale=en&layout=compact" alt="narayan0918" /></p>
+### 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narayan0918&show_icons=true&locale=en" alt="narayan0918" /></p>
+| **Frontend** | **Backend & DB** | **Languages** | **Tools & AI** |
+| :--- | :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white) |
+| ![Framer Motion](https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white) |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narayan0918&" alt="narayan0918" /></p>
+---
+
+### 📂 Featured Projects
+
+#### 🌐 Web Development (Full Stack)
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **Criminal Law Research Center** | `Next.js` `Tailwind` `Framer Motion` | A full-stack research platform featuring dynamic content management for legal publications. [cite_start]Implemented advanced UI animations for better engagement[cite: 97, 98, 99]. |
+| **Student Polling App** | `MERN Stack` `JWT` | A real-time polling application with secure JWT authentication. [cite_start]Boosted user interaction by **40%** through instant updates[cite: 88, 90, 91]. |
+| **Service Provider Platform** | `MERN Stack` | A localized platform for on-demand services. [cite_start]Built robust user registration with client-side validation and collaborative frontend architecture[cite: 78, 81]. |
+| **E-commerce Web App** | `React` `JavaScript` | [cite_start]Refactored a 550+ line static HTML project into a modular React app, converting hardcoded data into dynamic components[cite: 83, 85, 86]. |
+
+#### 🐍 Python & Scripts
+* [cite_start]**CLI ATM Banking System:** A modular command-line app simulating core banking (deposits/withdrawals) with custom exception handling[cite: 102, 103].
+* [cite_start]**Employee Management System:** A CRUD application using Python's `pickle` module for binary serialization and file-based storage[cite: 107, 108].
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Narayan0918&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narayan0918&layout=compact&theme=radical" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narayan0918&theme=radical" alt="streak graph" />
+</div>
+
+---
+
+<div align="center">
+  [cite_start]<p><i>"I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision." [cite: 113]</i></p>
+</div>
