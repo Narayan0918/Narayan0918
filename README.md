@@ -22,13 +22,13 @@
 
 ### 👨‍💻 About Me
 
-I am a **Full-Stack Web Developer** based in Hyderabad, India, with a solid foundation in **Python** and **Frontend Technologies**[cite: 58]. My passion lies in building responsive, scalable applications and solving complex problems through modular code. 
+I am a **Full-Stack Web Developer** based in Hyderabad, India, with a solid foundation in **Python** and **Frontend Technologies**. My passion lies in building responsive, scalable applications and solving complex problems through modular code. 
 
-I have completed an internship at **iNeuBytes**, where I optimized frontend performance by **25%** and resolved cross-device compatibility issues[cite: 76].
+I have completed an internship at **iNeuBytes**, where I optimized frontend performance by **25%** and resolved cross-device compatibility issues.
 
 ### 🚀 Current Focus & Status
 
-> **🔭 I’m currently working on:** > **[Unified Alumni Connection Platform]** > A massive multi-tenant full-stack solution (Web & Mobile) designed for alumni networking. I am currently architecting the backend using **PostgreSQL** and **Node.js**, while building a reactive UI with **React.js & Vite**. [cite_start]I am also integrating AI-assisted workflows to optimize deployment speed[cite: 93, 94, 95].
+> **🔭 I’m currently working on:** > **[Unified Alumni Connection Platform]** > A massive multi-tenant full-stack solution (Web & Mobile) designed for alumni networking. I am currently architecting the backend using **PostgreSQL** and **Node.js**, while building a reactive UI with **React.js & Vite**. I am also integrating AI-assisted workflows to optimize deployment speed.
 
 ---
 
@@ -48,7 +48,8 @@ I have completed an internship at **iNeuBytes**, where I optimized frontend perf
 #### 🌐 Web Development (Full Stack)
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| **Criminal Law Research Center** | `Next.js` `Tailwind` `Framer Motion` | A full-stack research platform featuring dynamic content management for legal publications. [cite_start]Implemented advanced UI animations for better engagement[cite: 97, 98, 99]. |
+| **Criminal Law Research Center** | `Next.js` `Tailwind` `Framer Motion` | A full-stack research platform featuring dynamic content management for legal publications. 
+Implemented advanced UI animations for better engagement. |
 | **Student Polling App** | `MERN Stack` `JWT` | A real-time polling application with secure JWT authentication. [cite_start]Boosted user interaction by **40%** through instant updates[cite: 88, 90, 91]. |
 | **Service Provider Platform** | `MERN Stack` | A localized platform for on-demand services. [cite_start]Built robust user registration with client-side validation and collaborative frontend architecture[cite: 78, 81]. |
 | **E-commerce Web App** | `React` `JavaScript` | [cite_start]Refactored a 550+ line static HTML project into a modular React app, converting hardcoded data into dynamic components[cite: 83, 85, 86]. |
