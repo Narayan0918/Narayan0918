@@ -22,9 +22,9 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a **Full-Stack Web Developer** based in Hyderabad, India, with a solid foundation in **Python** and **Frontend Technologies**[cite: 58]. My passion lies in building responsive, scalable applications and solving complex problems through modular code. 
+I am a **Full-Stack Web Developer** based in Hyderabad, India, with a solid foundation in **Python** and **Frontend Technologies**[cite: 58]. My passion lies in building responsive, scalable applications and solving complex problems through modular code. 
 
-[cite_start]I recently completed an internship at **iNeuBytes**, where I optimized frontend performance by **25%** and resolved cross-device compatibility issues[cite: 76].
+I have completed an internship at **iNeuBytes**, where I optimized frontend performance by **25%** and resolved cross-device compatibility issues[cite: 76].
 
 ### 🚀 Current Focus & Status
 
