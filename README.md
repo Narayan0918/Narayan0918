@@ -56,7 +56,7 @@ Implemented advanced UI animations for better engagement. |
 
 #### 🐍 Python & Scripts
 * **CLI ATM Banking System:** A modular command-line app simulating core banking (deposits/withdrawals) with custom exception handling.
-**Employee Management System:** A CRUD application using Python's `pickle` module for binary serialization and file-based storage[cite: 107, 108].
+**Employee Management System:** A CRUD application using Python's `pickle` module for binary serialization and file-based storage.
 
 ---
 
@@ -73,5 +73,5 @@ Implemented advanced UI animations for better engagement. |
 ---
 
 <div align="center">
-  [cite_start]<p><i>"I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision." [cite: 113]</i></p>
+  <p><i>"I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision." </i></p>
 </div>
