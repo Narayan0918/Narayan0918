@@ -50,13 +50,13 @@ I have completed an internship at **iNeuBytes**, where I optimized frontend perf
 | :--- | :--- | :--- |
 | **Criminal Law Research Center** | `Next.js` `Tailwind` `Framer Motion` | A full-stack research platform featuring dynamic content management for legal publications. 
 Implemented advanced UI animations for better engagement. |
-| **Student Polling App** | `MERN Stack` `JWT` | A real-time polling application with secure JWT authentication. [cite_start]Boosted user interaction by **40%** through instant updates[cite: 88, 90, 91]. |
-| **Service Provider Platform** | `MERN Stack` | A localized platform for on-demand services. [cite_start]Built robust user registration with client-side validation and collaborative frontend architecture[cite: 78, 81]. |
-| **E-commerce Web App** | `React` `JavaScript` | [cite_start]Refactored a 550+ line static HTML project into a modular React app, converting hardcoded data into dynamic components[cite: 83, 85, 86]. |
+| **Student Polling App** | `MERN Stack` `JWT` | A real-time polling application with secure JWT authentication. Boosted user interaction by **40%** through instant updates. |
+| **Service Provider Platform** | `MERN Stack` | A localized platform for on-demand services. Built robust user registration with client-side validation and collaborative frontend architecture. |
+| **E-commerce Web App** | `React` `JavaScript` | Refactored a 550+ line static HTML project into a modular React app, converting hardcoded data into dynamic components. |
 
 #### 🐍 Python & Scripts
-* [cite_start]**CLI ATM Banking System:** A modular command-line app simulating core banking (deposits/withdrawals) with custom exception handling[cite: 102, 103].
-* [cite_start]**Employee Management System:** A CRUD application using Python's `pickle` module for binary serialization and file-based storage[cite: 107, 108].
+* **CLI ATM Banking System:** A modular command-line app simulating core banking (deposits/withdrawals) with custom exception handling.
+**Employee Management System:** A CRUD application using Python's `pickle` module for binary serialization and file-based storage[cite: 107, 108].
 
 ---
 
