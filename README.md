@@ -26,11 +26,6 @@ I am a **Full-Stack Web Developer** based in Hyderabad, India, with a solid foun
 
 I have completed an internship at **iNeuBytes**, where I optimized frontend performance by **25%** and resolved cross-device compatibility issues.
 
-### 🚀 Current Focus & Status
-
-> **🔭 I’m currently working on:** > **[Unified Alumni Connection Platform]** > A massive multi-tenant full-stack solution (Web & Mobile) designed for alumni networking. I am currently architecting the backend using **PostgreSQL** and **Node.js**, while building a reactive UI with **React.js & Vite**. I am also integrating AI-assisted workflows to optimize deployment speed.
-
----
 
 ### 🛠️ Tech Stack
 
