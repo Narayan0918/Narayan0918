@@ -29,12 +29,13 @@ I have completed an internship at **iNeuBytes**, where I optimized frontend perf
 
 ### 🛠️ Tech Stack
 
-| **Frontend** | **Backend & DB** | **Languages** | **Tools & AI** |
+| **Frontend** | **Backend & DB** | **Languages** | **Tools & AI** | **Testing** |
 | :--- | :--- | :--- | :--- |
 | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
 | ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white) |
 | ![Framer Motion](https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white) |
+| ![Selenium] | ![Playwright] | ![Cucumber] | ![TestNG] |
 
 ---
 
